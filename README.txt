@@ -1,1 +1,1 @@
-If you can read this. That means InvokeWeb-Request succeeded. 
+If you can read this. That means Invoke-WebRequest succeeded. 
